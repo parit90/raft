@@ -1,0 +1,5 @@
+1. Connect 5 no. of nodes
+    - Each node should be able to make RPC
+
+2. Leader Selection
+    - Out of 5 nodes there would be 1 leader and rest of the node would be follower 
